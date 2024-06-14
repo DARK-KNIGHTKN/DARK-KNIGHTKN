@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a 🕵️‍♂️, that discovers hidden truth's from Data
+
+### Karthik Naren -  Coimbatore, India 
+I am a 🕵️‍♂️, with an 👁️ for detail, that helps to discover hidden truth's in Data
 
 
 ## 🌐 Socials:
